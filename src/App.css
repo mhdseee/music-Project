@@ -1,0 +1,17 @@
+.bg{
+    width: 50%;
+    height: 76vh;
+    margin: 0 auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#not-found{
+    background-image: url('./img/404 Error Page not Found with people connecting a plug-pana.png');
+}
+#about{
+    background-image: url('./img/About us page-pana.png')
+}
+#contact{
+    background-image: url('./img/Mobile user-rafiki.png')
+}
